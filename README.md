@@ -1,5 +1,3 @@
-Follow the instructions
-
 PHP version 8.1 is required
 
 Run Composer 
