@@ -35,7 +35,7 @@ To insert Data to database using POSTMAN
     API LINK: http://127.0.0.1:8000/api/users/takes
     METHOD:    POST
     
-Use this JSON form to insert data to database 
+Use this JSON format to insert data to database 
 
     { 
         "first_name":"", 
@@ -45,7 +45,7 @@ Use this JSON form to insert data to database
         "password":"" 
     }
 
-To Records from Database
+To Fetch Records from Database
 
     API LINK: http://127.0.0.1:8000/api/users
     METHOD:    GET
