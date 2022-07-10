@@ -10,7 +10,7 @@ Set Environment
 
 Set the application key
 
-   $ php artisan key:generate
+    $ php artisan key:generate
 
 Create Database in .env
 
