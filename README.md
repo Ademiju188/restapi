@@ -36,7 +36,14 @@ To insert Data to database using POSTMAN
     METHOD:    POST
     
 Use this JSON form to insert data to database 
-    { "first_name":"", "last_name":"", "email":"", "mobile":"", "password":"" }
+
+    { 
+        "first_name":"", 
+        "last_name":"", 
+        "email":"", 
+        "mobile":"", 
+        "password":"" 
+    }
 
 To Records from Database
 
