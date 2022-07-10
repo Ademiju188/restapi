@@ -24,7 +24,7 @@ Create Database in .env
 
 Run migrations
 
-   $ php artisan migrate 
+    $ php artisan migrate 
 
 Start PHP Server
 
